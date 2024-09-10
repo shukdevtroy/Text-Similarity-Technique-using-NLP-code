@@ -181,12 +181,7 @@ In this project, we use a small set of sample documents for training and testing
     cd Text-Similarity-Technique-using-NLP-code
     ```
 
-2. Run the desired scripts using Python. For example:
-    ```bash
-    python train_doc2vec.py
-    python check_similarity_sbert.py
-    python check_similarity_use.py
-    ```
+2. Run the Text_Similarity_Techniques.ipynb in Google Colab 
 
 ## License
 
