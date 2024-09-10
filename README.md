@@ -1,7 +1,5 @@
 # Text-Similarity-Technique-using-NLP-code
 
-Here's a comprehensive `README.md` file that you can use for your GitHub repository. This file explains the project, the technologies used, and provides instructions on how to run the code and use the models.
-
 ---
 
 # Document Similarity Using Various Embedding Models
