@@ -177,8 +177,8 @@ In this project, we use a small set of sample documents for training and testing
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
-    cd your-repo
+    git clone https://github.com/shukdevtroy/Text-Similarity-Technique-using-NLP-code.git
+    cd Text-Similarity-Technique-using-NLP-code
     ```
 
 2. Run the desired scripts using Python. For example:
