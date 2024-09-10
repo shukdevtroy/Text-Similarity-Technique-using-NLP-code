@@ -195,7 +195,10 @@ In this project, we use a small set of sample documents for training and testing
         print(f'\nFor sentence {i+1}: {sentences[i]}')
         print(f'Similarity Score = {similarity_score}')
     ```
-    
+## Full Code with Explanation
+
+1. See the full code "Text_Similarity_Techniques.ipynb" for detailed explanation
+   
 ## Running the Code
 
 1. Clone the repository:
