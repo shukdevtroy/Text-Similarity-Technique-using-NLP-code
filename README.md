@@ -171,6 +171,31 @@ In this project, we use a small set of sample documents for training and testing
     sentences_vecs = data['sentences']
     ```
 
+3. **Testing USE**:
+    ```python
+    # Define a function to compute cosine similarity
+    def cosine_similarity(vec1, vec2):
+        return 1 - distance.cosine(vec1, vec2)
+    
+    # New test sentence
+    new_test = ["I enjoyed the film a lot"]
+    
+    sentences = [
+        ["The movie is nice and It was a good thriller"],
+        ["We are learning NLP through GeeksforGeeks"],
+        ["The baby learned to walk in the 5th month itself"]
+    ]
+    
+    # Compute the new test sentence embedding
+    new_test_vec = embed(new_test)[0]
+
+    # Compute similarity scores for the new test sentence
+    for i, sent_vec in enumerate(sentences_vecs):
+        similarity_score = cosine_similarity(new_test_vec, sent_vec)
+        print(f'\nFor sentence {i+1}: {sentences[i]}')
+        print(f'Similarity Score = {similarity_score}')
+    ```
+    
 ## Running the Code
 
 1. Clone the repository:
