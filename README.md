@@ -183,10 +183,6 @@ In this project, we use a small set of sample documents for training and testing
 
 2. Run the Text_Similarity_Techniques.ipynb in Google Colab 
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - Gensim for Doc2Vec implementation
