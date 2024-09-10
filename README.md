@@ -41,9 +41,14 @@ pip install gensim nltk sentence-transformers tensorflow tensorflow-hub scipy ma
 
 ## Acknowledgements
 
-- Gensim for Doc2Vec implementation
-- Sentence-Transformers for pre-trained models
-- TensorFlow Hub for Universal Sentence Encoder
+Here are some useful resources related to the project:
+
+- **TensorFlow Hub**: A library for reusable machine learning modules. [Visit TensorFlow Hub](https://www.tensorflow.org/hub) (Last accessed: September 11, 2024)
+
+- **Gensim**: A library for topic modeling and document similarity analysis. [Visit Gensim](https://radimrehurek.com/gensim/index.html) (Last accessed: September 11, 2024)
+
+- **Sentence-BERT**: A library for generating sentence embeddings. [Visit Sentence-BERT](https://sbert.net/) (Last accessed: September 11, 2024)
+
 
 ---
 
