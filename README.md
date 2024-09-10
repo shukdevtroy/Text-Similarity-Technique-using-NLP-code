@@ -43,11 +43,11 @@ pip install gensim nltk sentence-transformers tensorflow tensorflow-hub scipy ma
 
 Here are some useful resources related to the project:
 
-- **TensorFlow Hub**: A library for reusable machine learning modules. [Visit TensorFlow Hub](https://www.tensorflow.org/hub) (Last accessed: September 11, 2024)
+- **TensorFlow Hub**: A library for reusable machine learning modules. [Visit TensorFlow Hub](https://www.tensorflow.org/hub) 
 
-- **Gensim**: A library for topic modeling and document similarity analysis. [Visit Gensim](https://radimrehurek.com/gensim/index.html) (Last accessed: September 11, 2024)
+- **Gensim**: A library for topic modeling and document similarity analysis. [Visit Gensim](https://radimrehurek.com/gensim/index.html) 
 
-- **Sentence-BERT**: A library for generating sentence embeddings. [Visit Sentence-BERT](https://sbert.net/) (Last accessed: September 11, 2024)
+- **Sentence-BERT**: A library for generating sentence embeddings. [Visit Sentence-BERT](https://sbert.net/) 
 
 
 ---
