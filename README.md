@@ -2,7 +2,7 @@
 
 ---
 
-# Document Similarity Using Various Embedding Models
+## Document Similarity Using Various Embedding Models
 
 This repository contains code and models for document similarity analysis using different embeddings techniques, including Doc2Vec, Sentence-BERT, and Universal Sentence Encoder. It provides a comprehensive comparison of these methods for evaluating the semantic similarity between sentences and documents.
 
@@ -48,6 +48,10 @@ Here are some useful resources related to the project:
 - **Gensim**: A library for topic modeling and document similarity analysis. [Visit Gensim](https://radimrehurek.com/gensim/index.html) 
 
 - **Sentence-BERT**: A library for generating sentence embeddings. [Visit Sentence-BERT](https://sbert.net/) 
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
 ---
